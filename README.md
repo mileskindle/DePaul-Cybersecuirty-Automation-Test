@@ -1,2 +1,1 @@
-# DePaul Cybersecuirty Automation Test
- WebHomework Q1
+This is a sample readme.
